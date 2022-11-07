@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\SqlProfilerCleanup\\\SqlProfilerCleanup.dll
+C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\SqlProfilerCleanup\\\SqlProfilerCleanup.pdb
+C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\SqlProfilerCleanup\\\SqlProfilerCleanup.pkgdef
+C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\SqlProfilerCleanup\\\createTemplateManifests.cache
+C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\SqlProfilerCleanup\\\extension.vsixmanifest
+C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\SqlProfilerCleanup\\\SqlFormatter.dll
