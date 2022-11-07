@@ -23,3 +23,7 @@ _Note:_ Make sure to read the comment about downgrading SDK to v15.0
 A parser for dynamic SQL: [SqlProfilerQueryCleaner](https://github.com/mgroves/SqlProfilerQueryCleaner)
 
 Some useful code: [SSMS Executor](https://github.com/devvcat/ssms-executor)
+
+## License
+
+MIT license: [LICENSE.md](LICENSE.md)
