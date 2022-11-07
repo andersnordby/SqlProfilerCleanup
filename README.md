@@ -5,7 +5,7 @@ This creates a custom menu item for your Microsoft SQL Server Management Studio.
 When using SQL Profiler, a typical output looks like this:
 ![image](images/SqlProfilerCleanup-1.png)
 
-Copy the dynamic SQL and paste it into a new windon in SQL Server Management Studio:
+Copy the dynamic SQL and paste it into a new window in SQL Server Management Studio:
 ![image](images/SqlProfilerCleanup-2.png)
 
 Now, use the new **SQL Profiler Cleanup** menu item:
