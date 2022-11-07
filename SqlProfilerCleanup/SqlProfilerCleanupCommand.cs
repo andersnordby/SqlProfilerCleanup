@@ -2,23 +2,9 @@
 using Microsoft.VisualStudio.Shell.Interop;
 using System;
 using System.ComponentModel.Design;
-using System.Globalization;
-using System.Threading;
-using System.Threading.Tasks;
 using EnvDTE;
 using EnvDTE80;
 using Task = System.Threading.Tasks.Task;
-
-// Starting point: 
-// https://www.codeproject.com/Articles/1377559/How-to-Create-SQL-Server-Management-Studio-18-SSMS
-// Note the comment about downgrading SDK to v15.0
-
-// Parser:
-// https://github.com/mgroves/SqlProfilerQueryCleaner
-
-// Various useful code:
-// https://github.com/devvcat/ssms-executor
-
 
 namespace SqlProfilerCleanup
 {
