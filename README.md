@@ -27,3 +27,7 @@ Some useful code: [SSMS Executor](https://github.com/devvcat/ssms-executor)
 ## License
 
 MIT license: [LICENSE.md](LICENSE.md)
+
+## Deployment package
+
+If you don't want to (or can't) build this yourself - and you trust me (I'm a nice guy) - just download and unzip the package _SqlProfilerCleanup.zip_ and place the files in a new folder called _SqlProfilerCleanup_ inside the _C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions_ folder.
